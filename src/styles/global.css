@@ -1,6 +1,6 @@
 @layer base {
   body {
-    @apply text-base text-black antialiased;
+    @apply text-base text-black antialiased bg-gray-4 dark:bg-gray-900;
     -webkit-tap-highlight-color: transparent;
   }
 }
